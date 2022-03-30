@@ -37,7 +37,7 @@ Here is a pedigree from a family in which sensorineural deafness is present in s
   
 What is the mode of inheritance of deafness in this family?
 
-![mode of inheritance of deafness](/courses/health-sciences-and-technology/hst-730-molecular-biology-for-the-auditory-system-fall-2002/exams/examq1.jpg)
+{{< resource "948483ea-0c15-2947-ebee-7f8c6afae5ac" >}}
 
 Your colleague has provided you with a breeder pair of mice that each carry a heterozygous knockout of the gene "Dfns1". In her construct, Dfns1 has been replaced by LacZ.
 
@@ -110,4 +110,4 @@ List and explain a series of experiments that you, a modern molecular biologist,
 
 \[We expect you to describe in detail (see above) 4 experiments of the series (that may contain more experiments)\]
 
-![protein BPP](/courses/health-sciences-and-technology/hst-730-molecular-biology-for-the-auditory-system-fall-2002/exams/examq3.jpg)
+{{< resource "b91d4435-9191-f26e-93a5-142c2dbed839" >}}

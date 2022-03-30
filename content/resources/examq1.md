@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a3f4debc-1d36-7477-339f-aa688fde9936
 resourcetype: Image
 title: examq1.jpg
 uid: 948483ea-0c15-2947-ebee-7f8c6afae5ac
